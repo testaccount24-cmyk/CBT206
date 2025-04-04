@@ -1,0 +1,9 @@
+2025-04-04 06:02:34.677666 - Received CBT.V508.FILE206.PDS from FILE206.XMI 
+2025-04-04 06:02:34.678429 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE206.PDS, moved to PDS/$$$#DATE
+2025-04-04 06:02:34.678643 - Found $$CBTDOC.txt (text/plain) in CBT.V508.FILE206.PDS, moved to PDS/$$CBTDOC
+2025-04-04 06:02:34.678803 - Found $$PCDOC.txt (text/plain) in CBT.V508.FILE206.PDS, moved to PDS/$$PCDOC
+2025-04-04 06:02:34.678925 - Found $UPDJCL.jcl (text/plain) in CBT.V508.FILE206.PDS, moved to PDS/$UPDJCL
+2025-04-04 06:02:34.679085 - Found @FILE206.txt (text/plain) in CBT.V508.FILE206.PDS, moved to PDS/@FILE206
+2025-04-04 06:02:34.679199 - Found DCOLJCL.jcl (text/plain) in CBT.V508.FILE206.PDS, moved to PDS/DCOLJCL
+2025-04-04 06:02:34.679317 - Found PARSRTN.txt (text/plain) in CBT.V508.FILE206.PDS, moved to PDS/PARSRTN
+2025-04-04 06:02:34.679478 - Found REXXRTN.txt (text/plain) in CBT.V508.FILE206.PDS, moved to PDS/REXXRTN
